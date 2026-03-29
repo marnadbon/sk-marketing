@@ -205,3 +205,4 @@ De Commander kan **geen andere agents direct aansturen** vanuit deze sessie. Cla
 3. Je navigeert naar `02-onboarding/` → runt `/onboard`
 4. Je navigeert naar `03-strategist/` → runt `/avatar`
 5. Enzovoort volgens het plan
+
