@@ -9,7 +9,7 @@
     {
       "name": "sk-marketing",
       "description": "AI Marketing Team",
-      "source": "."
+      "source": "./sk-marketing"
     }
   ]
 }
